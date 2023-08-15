@@ -33,3 +33,9 @@ pip install -r requirements.txt
 - Trained model achieved an accuracy rate of over 85% in identifying building footprints.
 - Successfully visualized detected instances on multiple images and single large images.
 - Contributed to geographic analysis and urban planning through accurate building footprint detection.
+  
+### Credits
+   RetinaFace model: https://github.com/deepinsight/insightface/tree/master/RetinaFace
+   InsightFace model: https://github.com/deepinsight/insightface
+   OpenCV: https://opencv.org/
+   PyTorch: https://pytorch.org/
