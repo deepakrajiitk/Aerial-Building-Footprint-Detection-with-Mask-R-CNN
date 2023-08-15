@@ -1,0 +1,14 @@
+scipy
+Pillow
+cython
+matplotlib
+scikit-image==0.16.2
+tensorflow==2.5
+# keras==2.5.0
+opencv-python
+h5py
+imgaug
+IPython[all]
+geopandas
+patchify
+numpy==1.21
