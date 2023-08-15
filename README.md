@@ -20,7 +20,7 @@ This project demonstrates an advanced computer vision solution for accurately de
 1. Clone the repository:
 
    ```bash
-   git clone [Repository URL]
+   git clone https://github.com/deepakrajiitk/Aerial-Building-Footprint-Detection-with-Mask-R-CNN.git
    cd Aerial-Building-Footprint-Detection
 
 2. Install the required Python packages:
@@ -33,6 +33,3 @@ pip install -r requirements.txt
 - Trained model achieved an accuracy rate of over 85% in identifying building footprints.
 - Successfully visualized detected instances on multiple images and single large images.
 - Contributed to geographic analysis and urban planning through accurate building footprint detection.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
