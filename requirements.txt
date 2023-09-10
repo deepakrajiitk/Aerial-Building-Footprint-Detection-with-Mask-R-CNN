@@ -11,4 +11,5 @@ imgaug
 IPython[all]
 geopandas
 patchify
+rasterio
 numpy==1.21
