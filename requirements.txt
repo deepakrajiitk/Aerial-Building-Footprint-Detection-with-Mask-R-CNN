@@ -13,3 +13,5 @@ geopandas
 patchify
 rasterio
 numpy==1.21
+topojson
+simplification
