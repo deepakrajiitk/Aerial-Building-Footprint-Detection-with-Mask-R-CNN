@@ -36,7 +36,5 @@ This project demonstrates an advanced computer vision solution for accurately de
   
 ## Credits
 
-      RetinaFace model: https://github.com/deepinsight/insightface/tree/master/RetinaFace
-      InsightFace model: https://github.com/deepinsight/insightface
       OpenCV: https://opencv.org/
       PyTorch: https://pytorch.org/
