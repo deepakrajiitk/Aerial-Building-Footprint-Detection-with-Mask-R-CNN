@@ -33,3 +33,9 @@ This project demonstrates an advanced computer vision solution for accurately de
    - Trained model achieved an accuracy rate of over 85% in identifying building footprints.
    - Successfully visualized detected instances on multiple images and single large images.
    - Contributed to geographic analysis and urban planning through accurate building footprint detection.
+  
+## Credits
+
+      OpenCV: https://opencv.org/
+      PyTorch: https://pytorch.org/
+ss
